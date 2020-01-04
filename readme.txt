@@ -1,0 +1,3 @@
+SCAConfiguration.class和licenseLoader.class分别替换以下类
+com.fortify.sca.cmd.SCAConfiguration
+com.fortify.licensing.licenseLoader
